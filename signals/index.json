@@ -1,14 +1,14 @@
 [
  {
-  "session": "2026-10-13",
+  "session": "2026-10-14",
   "stage": "close",
-  "published_at": "2026-10-13T21:48:06+00:00",
+  "published_at": "2026-10-13T21:51:48+00:00",
   "n_entries": 0,
   "n_exits": 0,
   "market_filter_on": true,
-  "sha256": "5813a5ba71ddd173519823b0e04893bbbf3b70c8b69ee69f54c6f73be7d36e11",
-  "signature": "nnshkCYU0CdOwAAvT6sp+A7Y/gwXLr9EQUdpg2NBqPg6M8bx9CXfWPE0UqCK9fF+kAlPCrBjMlaooJvsiqEsAQ==",
-  "file": "2026-10-13.json",
+  "sha256": "bdbe1a3b271b5250f278b6eb4d0d4737370046c2ddecf4bc634ad10eb6068700",
+  "signature": "HIoVlH11zK1fePFkpRbUMW9CShY26RfNsRJk6DSjQ8IVJ+v4Bazl3CpAD8idud8ARBoQZHAkBX7EC8BecXP5BQ==",
+  "file": "2026-10-14.json",
   "revealed": []
  }
 ]

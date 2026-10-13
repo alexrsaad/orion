@@ -1,0 +1,6 @@
+# Orion signal record: Ed25519 public key. Verify any signals/*.json with this key alone;
+# the signed message is the sha256 hex string of the canonical JSON of the "signal" object.
+# raw key (hex): e6855a3488a708920b01df5aca4e0727a31d213e9edb03c3ce27d85a70c06d97
+-----BEGIN PUBLIC KEY-----
+MCowBQYDK2VwAyEA5oVaNIinCJILAd9ayk4HJ6MdIT6e2wPDzifYWnDAbZc=
+-----END PUBLIC KEY-----

@@ -1,0 +1,16 @@
+{
+ "commitment": "6331a3830d4206018b1c6c11423e135da407a7c205e0f70ad29f0f03735d2f11",
+ "item": {
+  "reason": "trail",
+  "ticker": "SMCI"
+ },
+ "kind": "exit",
+ "outcome": {
+  "exited": "2026-10-15T13:40",
+  "sold": true
+ },
+ "revealed_at": "2026-10-15",
+ "salt": "e7040efe85459f5aad8320d6529cecaa",
+ "session": "2026-10-15",
+ "ticker": "SMCI"
+}

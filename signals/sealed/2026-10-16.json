@@ -1,0 +1,24 @@
+{
+ "algorithm": "ed25519",
+ "public_key_file": "signals/PUBLIC_KEY.txt",
+ "public_key_hex": "e6855a3488a708920b01df5aca4e0727a31d213e9edb03c3ce27d85a70c06d97",
+ "sealed": {
+  "commitments": {
+   "entries": [],
+   "exits": [],
+   "trend_sleeve": "6f6805feb11de8f9943cf79e76b2b79c34c1e775d3190f34e9fe7ae221b72d76"
+  },
+  "fingerprint": "bebdf22ac918fe16",
+  "market_filter_on": true,
+  "n_entries": 0,
+  "n_exits": 0,
+  "plan_date": "2026-10-14",
+  "published_at": "2026-10-15T21:50:05+00:00",
+  "schema": "orion-sealed/1",
+  "session": "2026-10-16",
+  "stage": "close"
+ },
+ "sha256": "52c48ddb951ae95909975de15e4fb7e8d2757afaba1b9380c7d207b1b3d71745",
+ "signature": "SqLTMLnJ6sB/4xulfCR4+1KQkJr5eQSe7zWAUuA6azRMjFNZUJ4reBaXCOD4cajYS0FVL/s+CKNV3mLodbObAg==",
+ "signed_message": "sha256 hex as ascii"
+}

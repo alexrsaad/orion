@@ -1,0 +1,16 @@
+{
+ "commitment": "b779de753ad600ebbb3a45cd81fdcce2769d85e771c890fc2b8706ebade82c18",
+ "item": {
+  "reason": "trail",
+  "ticker": "AMD"
+ },
+ "kind": "exit",
+ "outcome": {
+  "exited": "2026-10-15T13:40",
+  "sold": true
+ },
+ "revealed_at": "2026-10-15",
+ "salt": "0ef190170e15e01209a15020318f2214",
+ "session": "2026-10-15",
+ "ticker": "AMD"
+}

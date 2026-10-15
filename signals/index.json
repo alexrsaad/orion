@@ -1,5 +1,17 @@
 [
  {
+  "session": "2026-10-16",
+  "stage": "close",
+  "published_at": "2026-10-15T21:50:05+00:00",
+  "n_entries": 0,
+  "n_exits": 0,
+  "market_filter_on": true,
+  "sha256": "52c48ddb951ae95909975de15e4fb7e8d2757afaba1b9380c7d207b1b3d71745",
+  "signature": "SqLTMLnJ6sB/4xulfCR4+1KQkJr5eQSe7zWAUuA6azRMjFNZUJ4reBaXCOD4cajYS0FVL/s+CKNV3mLodbObAg==",
+  "file": "2026-10-16.json",
+  "revealed": []
+ },
+ {
   "session": "2026-10-15",
   "stage": "preopen",
   "published_at": "2026-10-15T13:19:41+00:00",
@@ -9,7 +21,36 @@
   "sha256": "60cffa8b0a66b0c18fe81de4448dc4917ce81093a25c2eb52501ad41f126ecc6",
   "signature": "kTEJ66meqzVPgDNy44mfhH8pbQb5Q2+RBWP9GQr9z4MhCX2F+mlehAcopekv29UfNQp2g/cCB2lHPIhNLaS1Ag==",
   "file": "2026-10-15-preopen.json",
-  "revealed": []
+  "revealed": [
+   {
+    "kind": "exit",
+    "ticker": "AMD",
+    "file": "2026-10-15-AMD.json",
+    "revealed_at": "2026-10-15",
+    "outcome": {
+     "exited": "2026-10-15T13:40",
+     "sold": true
+    },
+    "item": {
+     "reason": "trail",
+     "ticker": "AMD"
+    }
+   },
+   {
+    "kind": "exit",
+    "ticker": "SMCI",
+    "file": "2026-10-15-SMCI.json",
+    "revealed_at": "2026-10-15",
+    "outcome": {
+     "exited": "2026-10-15T13:40",
+     "sold": true
+    },
+    "item": {
+     "reason": "trail",
+     "ticker": "SMCI"
+    }
+   }
+  ]
  },
  {
   "session": "2026-10-15",
@@ -21,7 +62,36 @@
   "sha256": "200a0a1b27149b479943f083ff06d4ede00e71e4a7411261ae657d2bf0b1720b",
   "signature": "7o6RtZI1OQnt2v4i4j4GSt8J4EsZtB3cT3tRyu6rfjR3qZzARDk51Gyuu79CXC9LmsacwU9sOhHMT1yRbgRHAQ==",
   "file": "2026-10-15.json",
-  "revealed": []
+  "revealed": [
+   {
+    "kind": "exit",
+    "ticker": "AMD",
+    "file": "2026-10-15-AMD.json",
+    "revealed_at": "2026-10-15",
+    "outcome": {
+     "exited": "2026-10-15T13:40",
+     "sold": true
+    },
+    "item": {
+     "reason": "trail",
+     "ticker": "AMD"
+    }
+   },
+   {
+    "kind": "exit",
+    "ticker": "SMCI",
+    "file": "2026-10-15-SMCI.json",
+    "revealed_at": "2026-10-15",
+    "outcome": {
+     "exited": "2026-10-15T13:40",
+     "sold": true
+    },
+    "item": {
+     "reason": "trail",
+     "ticker": "SMCI"
+    }
+   }
+  ]
  },
  {
   "session": "2026-10-14",

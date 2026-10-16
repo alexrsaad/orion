@@ -1,5 +1,17 @@
 [
  {
+  "session": "2026-10-19",
+  "stage": "close",
+  "published_at": "2026-10-16T21:33:15+00:00",
+  "n_entries": 4,
+  "n_exits": 1,
+  "market_filter_on": true,
+  "sha256": "b7e955086d8b0401536f9e1c4913a380b0c067205ae95b7809121132752eaa57",
+  "signature": "cCCEqC5lhE6B/LX8OlABQZWFI8SH/1dxHLUlgosKwOmgjAqBDzSaJKe2ii9/H7gXBMjEcl3jt4zhZMUcatPEDQ==",
+  "file": "2026-10-19.json",
+  "revealed": []
+ },
+ {
   "session": "2026-10-16",
   "stage": "close",
   "published_at": "2026-10-15T21:50:05+00:00",

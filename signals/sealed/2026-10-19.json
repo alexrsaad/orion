@@ -1,0 +1,31 @@
+{
+ "algorithm": "ed25519",
+ "public_key_file": "signals/PUBLIC_KEY.txt",
+ "public_key_hex": "e6855a3488a708920b01df5aca4e0727a31d213e9edb03c3ce27d85a70c06d97",
+ "sealed": {
+  "commitments": {
+   "entries": [
+    "776cd1b0760418b94d66eed1eecdc014a5c5542a02f234ab64472a00c387f4c0",
+    "b14ea16e925dfee3319b322eced7f07c0d82e8a098d16ceba3079731582b152f",
+    "90ae5da1a6fd4342e72ea0de1264160cc4d97698c746d6016d5aefa666edcb7a",
+    "95598d2e33163f300a0addaf0881610ccdecc6f047c089d225bb55ad595e50e3"
+   ],
+   "exits": [
+    "932aa56b491293bf691c4a0624d6ff012871c9938763b3039f84fbcb5bfd8c5a"
+   ],
+   "trend_sleeve": "bff9052b176605435b6c805541dabc6061a50c444991e50ea898df751f167a78"
+  },
+  "fingerprint": "bebdf22ac918fe16",
+  "market_filter_on": true,
+  "n_entries": 4,
+  "n_exits": 1,
+  "plan_date": "2026-10-15",
+  "published_at": "2026-10-16T21:33:15+00:00",
+  "schema": "orion-sealed/1",
+  "session": "2026-10-19",
+  "stage": "close"
+ },
+ "sha256": "b7e955086d8b0401536f9e1c4913a380b0c067205ae95b7809121132752eaa57",
+ "signature": "cCCEqC5lhE6B/LX8OlABQZWFI8SH/1dxHLUlgosKwOmgjAqBDzSaJKe2ii9/H7gXBMjEcl3jt4zhZMUcatPEDQ==",
+ "signed_message": "sha256 hex as ascii"
+}
